@@ -30,10 +30,7 @@ Here, `v1`, `v2`, `v3`, etc., indicate files explaining differrnt concepst of ht
 
 </body>
 </html>
-
----
-
-
+``` 
 
 ### Headings, Paragraphs, and Links
 - Implemented various types of headings using `<h1>` to `<h6>`.
