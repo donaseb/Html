@@ -15,6 +15,6 @@ Here, `v1`, `v2`, `v3`, etc., indicate different days of the tutorial.
 For each `.html` file, a corresponding `.md` file is created. These Markdown files contain:  
 
 - **Explanations** of the concepts covered.  
-- **Screenshots** of the executed commands and their outputs.  
+- **Screenshots** of the projects done .  
 
 This structure ensures that each tutorial step is well-documented for future reference.  
