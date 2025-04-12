@@ -15,6 +15,7 @@ Here, `v1`, `v2`, `v3`, etc., indicate files explaining differrnt concepst of ht
 ###  HTML 
 -Sceleton of the app 
 -Type !  called Emmet abbrevation In vs code  Which give the boilerplate template
+
 ## 📄 index.html
 
 ```html
@@ -29,6 +30,8 @@ Here, `v1`, `v2`, `v3`, etc., indicate files explaining differrnt concepst of ht
 
 </body>
 </html>
+
+---
 
 
 
